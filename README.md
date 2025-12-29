@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠️ I’m currently working on AI/ML and software development projects that combine innovation and real-world impacts. <br>🤝 I’m looking to collaborate on AI/ML, full-stack, app development projects, and open source contributions  <br>🙌 I’m looking for help with building scalable ML models and contributing to real-world applications  <br>🌱 I’m currently learning advanced machine learning, cloud deployment, and system design  <br>💬 Ask me about Python, Machine Learning, Deep Learning, Full-Stack Development, and GitHub  <br>⚡ Fun fact: I’m deeply passionate about using code to solve real-life problems — and I love building things that make a difference!<br>
+AI/ML-focused Computer Science undergraduate building data-driven systems, deep learning models, and scalable software solutions
 
 
 ## 🌐 Socials:
