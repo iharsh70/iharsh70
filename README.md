@@ -1,5 +1,6 @@
 # 💫 About Me:
-AI/ML-focused Computer Science undergraduate building data-driven systems, Saas models, and scalable software solutions
+AI/ML-focused Computer Science undergraduate building data-driven systems, ML models, and scalable software solutions
+• Applied AI • MLOps • Full Stack • Analytics
 
 
 ## 🌐 Socials:
